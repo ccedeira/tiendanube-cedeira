@@ -33,7 +33,7 @@ Besides that, all resources involving ALB stack must be created too. Important: 
 
 ## HOW TO
 
-`**tiendanube.pem** is provided on this repository.`
+`tiendanube.pem is provided on this repository.`
 
 ### Plan
 
@@ -75,7 +75,7 @@ Access **lb_address** several times or refresh your browser and it will switch i
 #### Nginx
 ![TiendaNube Logo](/images/nginx-image.png)
 
-Finally, If all it's working as expected, you can destroy the entire stack.
+Finally, If all it's working as expected, you can destroy all the infrastructure and smile :smile: !
 
 ### Destroy
 
